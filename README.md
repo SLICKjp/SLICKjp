@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Jathin!<br><br>I'm a passionate Software Engineer who loves to bring Websites to life. <br>With a background in Information Technology, I'm constantly exploring new frameworks, I'm excited to share my knowledge and offer my services to help you achieve your goals. <br><br>- 🎸 In my free time, I enjoy watching Anime and video games.<br><br><br><br><br><br>
+👋 Hello, I'm Jathin!<br><br>I'm a passionate Software Engineer who loves to bring Websites to life. <br>With a background in Information Technology, I'm constantly exploring new frameworks, I'm excited to share my knowledge and offer my services to help you achieve your goals. <br><br>- 🎸 In my free time, I enjoy watching Anime and video games.<br><br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jathin-prakash/) 
